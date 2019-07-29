@@ -26,7 +26,7 @@ yarn start
 ```
 Build the application 
 ```
-yarn run dist:macOS
+yarn run dist:macos
 ```
 This will build an App in the dist folder. This Mac applications works on macOS 10.10+
 

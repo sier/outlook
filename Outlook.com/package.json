@@ -1,10 +1,10 @@
 {
   "name": "outlook.com",
   "productName": "Outlook",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "Outlook for Outlook.com Desktop application",
   "main": "src/main.js",
-  "author": "",
+  "author": "Hampus Reis",
   "repository": "https://github.com/sier/outlook",
   "license": "MIT",
   "keywords": [
@@ -33,7 +33,6 @@
     "appId": "outlook.com",
     "linux": {
       "category": "Office",
-      "maintainer":"tomlm@microsoft",
       "desktop": {
         "StartupWMClass": "Outlook for Outlook.com Desktop Application"
       },
