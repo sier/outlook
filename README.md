@@ -24,7 +24,7 @@ This hosts http://mail.office365.com and is suitable for using with enterprise w
 This hosts http://outlook.com and is suitable for using for personal email.
 
 # Installing
-Go to https://github.com/tomlm/electron-outlook/releases 
+Go to https://github.com/sier/outlook/releases
 * **.msi** version installs on windows
 * **.dmg** version installs on mac
 * **.deb** version installs on linux
