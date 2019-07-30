@@ -5,7 +5,7 @@ os: osx
 
 before_install:
   - sudo npm install
-  - sudo yarn
+  - sudo yarn install
 
 install:
   - sudo yarn run dist:macos
