@@ -10,6 +10,6 @@ before_install:
 
 install:
   - sudo npm install -g electron --unsafe-perm=true --allow-root
-  - sudo npm install
+  - sudo npm install --unsafe-perm=true --allow-root
   - sudo yarn install
   - sudo yarn run dist:macos
