@@ -8,4 +8,4 @@ before_install:
   - sudo yarn
 
 install:
-  - yarn run dist:macos
+  - sudo yarn run dist:macos
