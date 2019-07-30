@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+  - "lts/*"
+os: osx
+
+before_install:
+  - sudo npm install
+  - sudo yarn
+
+install:
+  - yarn run dist:macos

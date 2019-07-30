@@ -39,7 +39,7 @@
       "target": "deb"
     },
     "win": {
-      "target":"msi"
+      "target": "msi"
     }
   }
 }
