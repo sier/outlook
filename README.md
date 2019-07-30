@@ -27,9 +27,7 @@ This hosts http://outlook.com and is suitable for using for personal email.
 
 # Installing
 Go to https://github.com/sier/outlook/releases
-* **.msi** version installs on windows
-* **.dmg** version installs on mac
-* **.deb** version installs on linux
+* **.app** version installs on mac
 
 # Building
 Install prerequistites
@@ -57,4 +55,8 @@ yarn run dist:linux
 To build each distribution for office365.  The installers will be built into the dist folder.
 
 # Acknowledgements
-This project is a fork of eNcru/electron-outlook. 
+This project is a fork of:
+
+[eNkru/electron-outlook](https://github.com/eNkru/freelook)
+
+└ [tomlm/electron-outlook](https://github.com/tomlm/electron-outlook)
