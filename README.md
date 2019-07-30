@@ -1,4 +1,4 @@
-# Outlook Web Application as a dedicated application
+# Outlook Web Application as a dedicated application [![Build Status](https://travis-ci.com/sier/outlook.svg?branch=master)](https://travis-ci.com/sier/outlook)
 This provides installers for Windows/Mac/Linux that install a dedicated application which hosts outlook's web application. 
 
 # Rationale
