@@ -9,7 +9,5 @@ before_install:
   - cd Office365
 
 install:
-  - sudo npm install -g electron --unsafe-perm=true --allow-root
-  - sudo npm install --unsafe-perm=true --allow-root
   - sudo yarn install
   - sudo yarn run dist:macos
