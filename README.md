@@ -57,6 +57,6 @@ To build each distribution for office365.  The installers will be built into the
 # Acknowledgements
 This project is a fork of:
 
-[eNkru/electron-outlook](https://github.com/eNkru/freelook)
+[eNkru/freelook](https://github.com/eNkru/freelook)
 
 └ [tomlm/electron-outlook](https://github.com/tomlm/electron-outlook)
