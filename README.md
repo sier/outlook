@@ -1,6 +1,8 @@
 # Outlook Web Application as a dedicated application [![Build Status](https://travis-ci.com/sier/outlook.svg?branch=master)](https://travis-ci.com/sier/outlook)
 This provides installers for Windows/Mac/Linux that install a dedicated application which hosts outlook's web application. 
 
+![Image of Application](https://i.imgur.com/DrZQZwOh.jpg)
+
 # Rationale
 I have found that the Outlook Web application a great email client for a number of reasons.
 * It always is running the latest without upgrading.
