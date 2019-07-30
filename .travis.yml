@@ -5,8 +5,8 @@ os: osx
 
 before_install:
   - cd Office365
-  - sudo npm install
-  - sudo yarn install
 
 install:
+  - sudo npm install
+  - sudo yarn install
   - sudo yarn run dist:macos
